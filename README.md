@@ -10,7 +10,7 @@
 
 ![B.E. Information Science](https://img.shields.io/badge/B.E.-Information%20Science%20%26%20Engineering-6D28D9?style=flat-square&labelColor=1a1a2e)
 ![Expected 2027](https://img.shields.io/badge/Graduating-2027-7C3AED?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/📍-Bengaluru,%20Karnataka-8B5CF6?style=flat-square&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Bengaluru%2C%20Karnataka-8B5CF6?style=flat-square&labelColor=1a1a2e)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ## 🟣 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gifs/main.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 ```yaml
 name: "Manoj H R"
@@ -141,32 +141,28 @@ Built to establish a foundation in responsive front-end development before movin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manojhr06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manojhr06&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Manojhr06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Manojhr06&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhr06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="48%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Manojhr06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E9D5FF" width="48%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🟣 GitHub Trophies
+## 🟣 Profile Summary & Language Insights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manojhr06&theme=discord&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manojhr06&theme=tokyonight" width="48%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manojhr06&theme=tokyonight" width="48%" alt="Repos Per Language"/>
 
-</div>
+<br/>
 
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manojhr06&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D5FF" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manojhr06&theme=tokyonight" width="48%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manojhr06&theme=tokyonight" width="48%" alt="Summary Stats"/>
 
 </div>
 
